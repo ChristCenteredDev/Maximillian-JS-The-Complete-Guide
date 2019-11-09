@@ -11,7 +11,7 @@ _This repo is a collection of the work I will be completing for the course liste
 
 ### Course Outline:
 
-Section 1: Introduction <br>
+Section 1: Introduction &check; <br>
 Section 2: Basics: Variables, Data
 Types, Operators & Functions <br>
 Section 3: Efficient Development
