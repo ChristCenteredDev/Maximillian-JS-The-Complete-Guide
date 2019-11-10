@@ -27,25 +27,45 @@ Iterables <br>
 Section 9: More on Objects <br>
 Section 10: Classes &
 Object-oriented Programming (OOP) <br>
-Section 11: <br>
-Section 12: <br>
-Section 13: <br>
-Section 14: <br>
-Section 15: <br>
-Section 16: <br>
-Section 17: <br>
-Section 18: <br>
-Section 19: <br>
-Section 20: <br>
-Section 21: <br>
-Section 22: <br>
-Section 23: <br>
-Section 24: <br>
-Section 25: <br>
-Section 26: <br>
-Section 27: <br>
-Section 28: <br>
-Section 29: <br>
-Section 30: <br>
-Section 31: <br>
-Section 32: <br>
+Section 11: Deep Dive:
+Constructor Functions & Prototypes <br>
+Section 12: Practice: OOP &
+Classes <br>
+Section 13: Back to the DOM &
+More Browser APIs <br>
+Section 14: Working with Events <br>
+Section 15: Advanced Function
+Concepts <br>
+Section 16: More on Numbers &
+Strings <br>
+Section 17: Async JavaScript:
+Promises & Callbacks <br>
+Section 18: Working with Http
+Requests <br>
+Section 19: Working with
+JavaScript Libraries <br>
+Section 20: Modular JavaScript
+(Working with Modules) <br>
+Section 21: JavaScript Tooling &
+Workflows <br>
+Section 22: Utilizing Browser
+Storage <br>
+Section 23: JavaScript & Browser
+Support <br>
+Section 24: Time to Practice:
+Share My Place App <br>
+Section 25: Working with
+JavaScript Frameworks <br>
+Section 26: Meta-Programming:
+Symbols, Iterators, Generators, Reflect API & Proxy API <br>
+Section 27: Node.js: An
+Introduction <br>
+Section 28: Security <br>
+Section 29: Deploying JavaScript
+Code <br>
+Section 30: Performance &
+Optimizations <br>
+Section 31: Introduction to
+Testing <br>
+Section 32: Roundup & Next
+Steps <br>
