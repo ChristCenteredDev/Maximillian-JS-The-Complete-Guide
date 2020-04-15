@@ -15,7 +15,7 @@ Section 1: Introduction &check; <br>
 Section 2: Basics: Variables, Data
 Types, Operators & Functions &check; <br>
 Section 3: Efficient Development
-& Debugging <br>
+& Debugging &check; <br>
 Section 4: Working with Control
 Structures <br>
 Section 5: Behind the Scenes &
