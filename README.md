@@ -17,7 +17,7 @@ Types, Operators & Functions &check; <br>
 Section 3: Efficient Development
 & Debugging &check; <br>
 Section 4: Working with Control
-Structures <br>
+Structures &check; <br>
 Section 5: Behind the Scenes &
 The (Weird) Past (ES3, ES5) & Present (ES6+) <br>
 Section 6: More on Functions <br>
