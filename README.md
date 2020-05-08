@@ -20,7 +20,7 @@ Section 4: Working with Control
 Structures &check; <br>
 Section 5: Behind the Scenes &
 The (Weird) Past (ES3, ES5) & Present (ES6+) &check; <br>
-Section 6: More on Functions <br>
+Section 6: More on Functions &check; <br>
 Section 7: Working with the DOM <br>
 Section 8: More on Arrays &
 Iterables <br>
